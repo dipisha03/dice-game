@@ -6,4 +6,4 @@ Created a simple dice game using the Math.random() method, document.querySelecto
 
 **Technologies used:** JavaScript | HTML | CSS 
 
-**Link:** 
+**Link:** https://dipisha03.github.io/dice-game/
